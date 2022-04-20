@@ -25,6 +25,8 @@ class GFAlertContainerView: UIView {
         layer.borderWidth = 0.6
         layer.borderColor = UIColor.white.cgColor
     }
+    
+    
 
 
 }
