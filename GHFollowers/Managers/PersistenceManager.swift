@@ -8,7 +8,7 @@
 import Foundation
 
 enum PersistenceActionType {
-case add, remove
+    case add, remove
 }
 enum PersistenceManager {
     
